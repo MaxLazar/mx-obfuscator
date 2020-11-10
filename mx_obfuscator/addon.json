@@ -1,0 +1,16 @@
+{
+  "name": "MX Obfuscator",
+  "shortname": "obfuscator",
+  "version": "2.0.0",
+  "foundation_version": "4.5.2",
+  "description": "",
+  "license": "MaxLazar",
+  "namespace": "MX\\Obfuscator",
+  "require": {
+    "php": ">=5.3.*",
+    "expressionengine/core": ">=3.5.17"
+  },
+  "resources": {
+    "themes": false
+  }
+}
