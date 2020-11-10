@@ -21,7 +21,7 @@ spambots.
     
     <!-- That will make your msg appear as -->
 	
-	You can send me email to <span id="enkoder_1_653046812">email hidden; JavaScript is required</span><script id="script_enkoder_1_653046812" type="text/javascript">
+	my email is <span id="enkoder_1_653046812">email hidden; JavaScript is required</span><script id="script_enkoder_1_653046812" type="text/javascript">
 	/* <!-- */
 	function hivelogic_enkoder_1_653046812() {...}
 	hivelogic_enkoder_1_653046812();
